@@ -24,10 +24,10 @@ Este repositório documenta, em formato de "saga", tudo o que estou aprendendo e
 
 | # | Capítulo | Tema | Status |
 |---|----------|------|--------|
-| 01 | [Linux & Shell](./01-linux-shell) | Terminal, permissões, Bash scripting | ✅ |
-| 02 | [Git & GitHub](./02-git-github) | Versionamento, branches, workflows | ✅ |
-| 03 | [Redes & Cloud Básico](./03-redes-cloud) | DNS, HTTP, VPC, conceitos de cloud | 🚧 |
-| 04 | [Docker](./04-docker) | Containers, Dockerfile, Compose | 🚧 |
+| 01 | [Linux & Shell](./01-linux-shell) | Terminal, permissões, Bash scripting | ⏳ |
+| 02 | [Git & GitHub](./02-git-github) | Versionamento, branches, workflows | ⏳ |
+| 03 | [Redes & Cloud Básico](./03-redes-cloud) | DNS, HTTP, VPC, conceitos de cloud | ⏳ |
+| 04 | [Docker](./04-docker) | Containers, Dockerfile, Compose | ⏳ |
 | 05 | [CI/CD](./05-cicd) | GitHub Actions, GitLab CI, Jenkins | ⏳ |
 | 06 | [IaC](./06-iac) | Terraform, Ansible | ⏳ |
 | 07 | [Kubernetes](./07-kubernetes) | Pods, Deployments, Helm | ⏳ |
