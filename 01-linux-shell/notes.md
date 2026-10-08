@@ -6,7 +6,7 @@
 ## Arquivos
 -   mkdir, touch, cp, mv, rm
 
-##Leitura e busca 
+## Leitura e busca 
 -   cat, head, tail, grep, wc
 
 ## Pipe
