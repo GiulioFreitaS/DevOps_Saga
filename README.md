@@ -103,7 +103,7 @@ cat README.md
 
 Registro curto do que aprendi em cada fase:
 
-- **AAAA-MM-DD** — Primeiro commit. Estrutura do repo criada.
+- **2026-10-08** — Primeiro commit. Estrutura do repo criada.
 - **AAAA-MM-DD** — Capítulo 01 concluído: scripts de automação em Bash.
 - *(continua...)*
 
