@@ -4,8 +4,8 @@
 
 ![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
 ![Licença](https://img.shields.io/badge/licença-MIT-blue)
-![Commits](https://img.shields.io/github/commit-activity/m/SEU_USUARIO/DevOps_Saga)
-![Última atualização](https://img.shields.io/github/last-commit/SEU_USUARIO/DevOps_Saga)
+![Commits](https://img.shields.io/github/commit-activity/m/GiulioFreitaS/DevOps_Saga)
+![Última atualização](https://img.shields.io/github/last-commit/GiulioFreitaS/DevOps_Saga)
 
 ---
 
