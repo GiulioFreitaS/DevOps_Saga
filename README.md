@@ -136,7 +136,7 @@ Distribuído sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais d
 ## 👤 Autor
 
 **Giulio Pimentel**
-- GitHub: [@SEU_USUARIO](https://github.com/GiulioFreitaS)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/giulio-pimentel)
+- GitHub: [@GiulioFreitaS](https://github.com/GiulioFreitaS)
+- LinkedIn: [giulio-pimentel](https://linkedin.com/in/giulio-pimentel)
 
 ⭐ Se este repositório te ajudou, deixe uma estrela!
